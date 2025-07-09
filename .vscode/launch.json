@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VitalyouApplication<vitalyou>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.vitalyou.VitalyouApplication",
+            "projectName": "vitalyou",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
